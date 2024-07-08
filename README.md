@@ -46,14 +46,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rajat-singh-681074271" target="_blank">
+  <a href="https://www.linkedin.com/in/rajatsingh-beniwal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <a href="https://www.instagram.com/invites/contact/?igsh=5dnjaokbmyqq&utm_content=ieymloi" target="_blank">
+  <a href="https://www.instagram.com/_rajatbeniwal>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/9896jaat@gmail.com" target="_blank">
+  <a href="mailto:9896jaat@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
