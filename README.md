@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I'm currently working on Python<br>📚 I'm currently learning machine learning <br>🎯 Goals: Analytics Engineer<br>🎲 Ask me about React , Python</p>
+<p align="left">✨ I'm currently working on Java<br>📚 I'm currently learning machine learning <br>🎯 Goals: Software Engineer<br>🎲 Ask me about React , Python</p>
 
 ###
 
